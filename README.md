@@ -1,6 +1,5 @@
 ### Retrospective Meetings 
-Here's a sample script I have used to start my retrospective meetings. It takes about 2 minutes to deliver and I have found it effective in warming up the discussion, laying out the ground rules and setting expectations.          
-Also, I take notes on screen and frequently ask people to review my note and advise if it didn't capture their point.      
+Here's a sample script I have used to start my retrospective meetings. It takes about 2 minutes to deliver and I have found it effective in warming up the discussion, laying out the ground rules and setting expectations.             
 
 ---
 Hello everyone, thanks for making time to join in the “INSERT PROJECT TITLE” retrospective meeting.        
@@ -26,5 +25,25 @@ Now a small note on my role here, I’ll be:
 - Taking notes that capture the discussion such that in a few months when we review our progress, they resonate.
 
 
-I’ll pause here in case there are any questions…
+I’ll pause here in case there are any questions…      
+Alright, we have got some good discussion ahead of us, I'd like to remind everyone to please wait for your turn and to also refrain from adding comments after your turn. I will allow for a re-cap time at the end of each round and if your point wasn't brought up by then, you'll have a chance to share. This is crucial to ensure we give everyone a fair chance to participate, we get to complete all the steps and maximize group's time utility. 
 
+---
+Final notes:      
+- I take notes on screen and frequently ask people to review and advise if it didn't capture their point.     
+- I go around the table in three rounds and ask everyone to share: 
+  - What Went Well (The Good) 
+  - What didn't Go So Well (The Bad)
+  - What Could We Have Done Better (The UGLY :D)
+- Then I run an "Action Item Review" round where we pull up notes from previous Retro and collectively share if we acted upon what we said we would.     
+- Then I run the "Action Item" section when the group collectively decides on 2-3 SMART objectives that they will commit to in the next sprint.      
+S: Specific     
+M: Measurable   
+A: Achievable    
+R: Relevant    
+T: Time Bound     
+- Time Management: 
+  - 1 hour seems to be ideal time in terms of maintaining people's engagement and also usually it's hard to book people more than that.      
+  - 15-25-10-5-5 seems to be a good time split.     
+  - Usually some people arrive better prepared than others with consice and well thought through points for each round. Others arrive to dump their frustration and can go on and on repeating the same point. **Always start by asking the prepared participant to share first.**
+- Establish an understanding of the project timeline to adjust your facilitation: is this the first, middle or final sprint in this project? Was there an out-size of frustration build up? Was it a successful delivery worth celebrating more and drawing good habits from? ... 
