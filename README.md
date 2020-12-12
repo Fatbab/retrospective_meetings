@@ -26,7 +26,7 @@ Now a small note on my role here, I’ll be:
 
 
 I’ll pause here in case there are any questions…      
-Alright, we have got some good discussion ahead of us, I'd like to remind everyone to please wait for your turn and to also refrain from adding comments after your turn. I will allow for a re-cap time at the end of each round and if your point wasn't brought up by then, you'll have a chance to share. This is crucial to ensure we give everyone a fair chance to participate, we get to complete all the steps and maximize group's time utility. 
+Alright, we have got some good discussion ahead of us, I'd like to remind everyone to please wait for your turn and to also refrain from adding comments after your turn. I will allow for a re-cap time at the end of each round and if your point wasn't brought up by then, you'll have a chance to share. This is crucial to ensure we give everyone a fair chance to participate, complete all the steps and maximize the group's time utility. 
 
 ---
 Final notes:      
